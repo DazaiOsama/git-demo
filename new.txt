@@ -1,0 +1,29 @@
+[33mcommit 668cafc3861d9948dfa790ee628254bf530e974e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Yugram Haschwalth <welkas206@gmail.com>
+Date:   Thu Dec 19 19:06:38 2024 +0200
+
+    new file
+
+[33mcommit d7ed9cc747dc0476c6083f0a4f15c357401a258d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DazaiOsama <48419064+DazaiOsama@users.noreply.github.com>
+Date:   Thu Dec 19 18:55:16 2024 +0200
+
+    hesoyam
+
+[33mcommit c3a66e7c99132e22e5bae89972cf232621f1614d[m
+Author: DazaiOsama <48419064+DazaiOsama@users.noreply.github.com>
+Date:   Thu Dec 19 18:50:46 2024 +0200
+
+    Update sas.txt
+
+[33mcommit 84e575ad62d2160c37d43b48f356cb5fc4657a6e[m
+Author: Yugram Haschwalth <welkas206@gmail.com>
+Date:   Thu Dec 19 18:48:13 2024 +0200
+
+    add 1 line from text
+
+[33mcommit d07b646f588257799c90872ed70d1228b23012b9[m
+Author: DazaiOsama <48419064+DazaiOsama@users.noreply.github.com>
+Date:   Thu Dec 19 18:40:54 2024 +0200
+
+    Initial commit
